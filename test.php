@@ -7,4 +7,5 @@
  */
 
 echo phpinfo();
+echo "xxxxxxxxx";
 echo "xxx";
